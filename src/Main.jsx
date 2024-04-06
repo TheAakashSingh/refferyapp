@@ -66,32 +66,32 @@ const Main = () => {
             <div className="content">
               <div className="a1">
                 <img src={suf1} />
-                <span>Grap The Jeffrey</span>p
+                <span>Grap The Jeffrey</span>
                 <img src={star} />
               </div>
               <div className="a1">
                 <img src={suf1} />
-                <span>Grap The Jeffrey</span>p
+                <span>Grap The Jeffrey</span>
                 <img src={star} />
               </div>
               <div className="a1">
                 <img src={suf1} />
-                <span>Grap The Jeffrey</span>p
+                <span>Grap The Jeffrey</span>
                 <img src={star} />
               </div>
               <div className="a1">
                 <img src={suf1} />
-                <span>Grap The Jeffrey</span>p
+                <span>Grap The Jeffrey</span>
                 <img src={star} />
               </div>
               <div className="a1">
                 <img src={suf1} />
-                <span>Grap The Jeffrey</span>p
+                <span>Grap The Jeffrey</span>
                 <img src={star} />
               </div>
               <div className="a1">
                 <img src={suf1} />
-                <span>Grap The Jeffrey</span>p
+                <span>Grap The Jeffrey</span>
                 <img src={star} />
               </div>
             </div>
