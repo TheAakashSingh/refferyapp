@@ -313,4 +313,48 @@ footer {
 
 
 
-/*  */
+/* Responsive */
+@media only screen and (max-width: 768px) {
+    .sec1>span {
+        font-size: 33px;
+    }
+
+    .sec2,
+    .sec4 {
+        overflow-x: auto;
+    }
+
+    .sec3 {
+        .imagePortion>img {
+            max-width: 281px;
+            height: auto;
+        }
+    }
+
+    .sec6>img {
+        width: 80px;
+    }
+
+    .sec6>span {
+        font-size: 22px;
+    }
+
+    .sec5>:nth-child(1) {
+        font-size: 18px;
+        font-weight: 800;
+    }
+    .sec5>:nth-child(2) {
+        font-size: 18px;
+        font-size: 500;
+    }
+    .sec5>:nth-child(3) {
+        font-size: 18px;
+        font-size: 500;
+    }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 1024px) {
+    .sec1>span {
+        font-size: 36px;
+    }
+}

@@ -12,7 +12,7 @@ import img3 from "./Media/img2.png";
 const Main = () => {
   return (
     <div className="mainPage">
-      
+    
       <div className="sec1">
         <span>Jeffrey Epstein</span>
       </div>
